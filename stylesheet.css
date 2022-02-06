@@ -595,9 +595,10 @@ span.typed-cursor{
 }
 
 .nokia--cont{
-	height: 350px;
+	height: 200px;
+	border-radius: 5px;
 	width: 100%;
-	margin: auto;
+	margin: 3% auto auto auto;
 	background-color: #00E676;
 }
 
