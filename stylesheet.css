@@ -598,13 +598,16 @@ span.typed-cursor{
 	height: 200px;
 	border-radius: 5px;
 	width: 100%;
-	margin: 3% auto auto auto;
-	background-color: #00E676;
+	margin: 2% auto auto auto;
+	background-color: #5B59FC;
 }
 
 .nokia--logo--cont{
 	border-radius: 5px;
-	float: left;
+    float: left;
+    height: 200px;
+    width: 150px;
+    background-color: #FF999A;
 }
 
 .nokia--logo--cont img{
